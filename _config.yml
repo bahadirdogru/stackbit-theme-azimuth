@@ -1,10 +1,10 @@
-title: Stackbit Azimuth Theme
+title: Zeynep Doğru | Uzman Psikolojik Danışman
 baseurl: /
 permalink: '/:title/'
 collections:
   posts:
     permalink: '/posts/:title/'
-palette: blue
+palette: green
 header:
   title: Azimuth
   logo_img: images/logo.png
